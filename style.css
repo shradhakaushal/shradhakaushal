@@ -1,0 +1,24 @@
+.container {
+    width: 50%;
+    max-width: 500px;
+    margin:0 auto;
+    font-family: 'Inter';
+    line-height: 120%;
+}
+
+.profile-pic {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 400px;
+}
+
+.title-name {
+    margin-top: 2em;
+    text-align: center;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: rgb(146, 38, 150);
+}
